@@ -1,5 +1,5 @@
 {
-    "name": "backpack/base",
+    "name": "forngo/base",
     "type": "library",
     "description": "Laravel Backpack's base package, which offers admin authentication and a blank admin panel using AdminLTE",
     "keywords": [
@@ -19,7 +19,7 @@
     "require": {
         "illuminate/support": "~5.1",
         "almasaeed2010/AdminLTE" : "2.3.*",
-        "laravel/framework": "5.3.*",
+        "laravel/framework": "5.4.*",
         "prologue/alerts": "0.4.*",
         "jenssegers/date": "^3.2"
     },
